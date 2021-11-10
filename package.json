@@ -1,5 +1,5 @@
 {
-  "name": "my-node-cli",
+  "name": "create-celer-web-cli",
   "version": "1.0.0",
   "description": "",
   "main": "cli.js",
